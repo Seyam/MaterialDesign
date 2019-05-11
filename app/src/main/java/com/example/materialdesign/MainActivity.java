@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
                                                     snackbar2.show();
                                                 }
                                             });
+
                 snackbar.show();
             }
         });
